@@ -1,0 +1,13 @@
+/root/csharp/csharp-hello_world/3-writeline/bin/Debug/netcoreapp2.1/3-writeline.deps.json
+/root/csharp/csharp-hello_world/3-writeline/bin/Debug/netcoreapp2.1/3-writeline.runtimeconfig.json
+/root/csharp/csharp-hello_world/3-writeline/bin/Debug/netcoreapp2.1/3-writeline.runtimeconfig.dev.json
+/root/csharp/csharp-hello_world/3-writeline/bin/Debug/netcoreapp2.1/3-writeline.dll
+/root/csharp/csharp-hello_world/3-writeline/bin/Debug/netcoreapp2.1/3-writeline.pdb
+/root/csharp/csharp-hello_world/3-writeline/obj/Debug/netcoreapp2.1/3-writeline.csproj.AssemblyReference.cache
+/root/csharp/csharp-hello_world/3-writeline/obj/Debug/netcoreapp2.1/3-writeline.GeneratedMSBuildEditorConfig.editorconfig
+/root/csharp/csharp-hello_world/3-writeline/obj/Debug/netcoreapp2.1/3-writeline.AssemblyInfoInputs.cache
+/root/csharp/csharp-hello_world/3-writeline/obj/Debug/netcoreapp2.1/3-writeline.AssemblyInfo.cs
+/root/csharp/csharp-hello_world/3-writeline/obj/Debug/netcoreapp2.1/3-writeline.csproj.CoreCompileInputs.cache
+/root/csharp/csharp-hello_world/3-writeline/obj/Debug/netcoreapp2.1/3-writeline.dll
+/root/csharp/csharp-hello_world/3-writeline/obj/Debug/netcoreapp2.1/3-writeline.pdb
+/root/csharp/csharp-hello_world/3-writeline/obj/Debug/netcoreapp2.1/3-writeline.genruntimeconfig.cache
