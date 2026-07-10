@@ -6,15 +6,16 @@ public class Line
     {
         for (int i = 0; i < length; i++)
         {
-            // Leerzeichen vor dem Backslash drucken
+            // Leerzeichen hinzufügen: für Zeile 0 -> 0 Leerzeichen, Zeile 1 -> 1 Leerzeichen...
             for (int space = 0; space < i; space++)
             {
                 Console.Write(" ");
             }
-            // Backslash und Zeilenumbruch drucken
+            // Backslash drucken und Zeile beenden
             Console.WriteLine("\\");
         }
-        // Zusätzlicher Zeilenumbruch, falls length <= 0 oder nach der Linie
+        
+        // Immer einen Zeilenumbruch am Ende, auch wenn length <= 0
         if (length <= 0)
         {
             Console.WriteLine();
