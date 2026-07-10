@@ -1,0 +1,13 @@
+/root/csharp/csharp-ifelse_loops_methods/1-last_digit/bin/Debug/netcoreapp2.1/1-last_digit.deps.json
+/root/csharp/csharp-ifelse_loops_methods/1-last_digit/bin/Debug/netcoreapp2.1/1-last_digit.runtimeconfig.json
+/root/csharp/csharp-ifelse_loops_methods/1-last_digit/bin/Debug/netcoreapp2.1/1-last_digit.runtimeconfig.dev.json
+/root/csharp/csharp-ifelse_loops_methods/1-last_digit/bin/Debug/netcoreapp2.1/1-last_digit.dll
+/root/csharp/csharp-ifelse_loops_methods/1-last_digit/bin/Debug/netcoreapp2.1/1-last_digit.pdb
+/root/csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/netcoreapp2.1/1-last_digit.csproj.AssemblyReference.cache
+/root/csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/netcoreapp2.1/1-last_digit.GeneratedMSBuildEditorConfig.editorconfig
+/root/csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/netcoreapp2.1/1-last_digit.AssemblyInfoInputs.cache
+/root/csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/netcoreapp2.1/1-last_digit.AssemblyInfo.cs
+/root/csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/netcoreapp2.1/1-last_digit.csproj.CoreCompileInputs.cache
+/root/csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/netcoreapp2.1/1-last_digit.dll
+/root/csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/netcoreapp2.1/1-last_digit.pdb
+/root/csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/netcoreapp2.1/1-last_digit.genruntimeconfig.cache
