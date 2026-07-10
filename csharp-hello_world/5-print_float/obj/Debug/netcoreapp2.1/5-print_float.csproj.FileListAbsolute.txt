@@ -1,0 +1,13 @@
+/root/csharp/csharp-hello_world/5-print_float/bin/Debug/netcoreapp2.1/5-print_float.deps.json
+/root/csharp/csharp-hello_world/5-print_float/bin/Debug/netcoreapp2.1/5-print_float.runtimeconfig.json
+/root/csharp/csharp-hello_world/5-print_float/bin/Debug/netcoreapp2.1/5-print_float.runtimeconfig.dev.json
+/root/csharp/csharp-hello_world/5-print_float/bin/Debug/netcoreapp2.1/5-print_float.dll
+/root/csharp/csharp-hello_world/5-print_float/bin/Debug/netcoreapp2.1/5-print_float.pdb
+/root/csharp/csharp-hello_world/5-print_float/obj/Debug/netcoreapp2.1/5-print_float.csproj.AssemblyReference.cache
+/root/csharp/csharp-hello_world/5-print_float/obj/Debug/netcoreapp2.1/5-print_float.GeneratedMSBuildEditorConfig.editorconfig
+/root/csharp/csharp-hello_world/5-print_float/obj/Debug/netcoreapp2.1/5-print_float.AssemblyInfoInputs.cache
+/root/csharp/csharp-hello_world/5-print_float/obj/Debug/netcoreapp2.1/5-print_float.AssemblyInfo.cs
+/root/csharp/csharp-hello_world/5-print_float/obj/Debug/netcoreapp2.1/5-print_float.csproj.CoreCompileInputs.cache
+/root/csharp/csharp-hello_world/5-print_float/obj/Debug/netcoreapp2.1/5-print_float.dll
+/root/csharp/csharp-hello_world/5-print_float/obj/Debug/netcoreapp2.1/5-print_float.pdb
+/root/csharp/csharp-hello_world/5-print_float/obj/Debug/netcoreapp2.1/5-print_float.genruntimeconfig.cache
