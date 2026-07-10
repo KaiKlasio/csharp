@@ -1,0 +1,13 @@
+/root/csharp/csharp-hello_world/8-print_variables/bin/Debug/netcoreapp2.1/8-print_variables.deps.json
+/root/csharp/csharp-hello_world/8-print_variables/bin/Debug/netcoreapp2.1/8-print_variables.runtimeconfig.json
+/root/csharp/csharp-hello_world/8-print_variables/bin/Debug/netcoreapp2.1/8-print_variables.runtimeconfig.dev.json
+/root/csharp/csharp-hello_world/8-print_variables/bin/Debug/netcoreapp2.1/8-print_variables.dll
+/root/csharp/csharp-hello_world/8-print_variables/bin/Debug/netcoreapp2.1/8-print_variables.pdb
+/root/csharp/csharp-hello_world/8-print_variables/obj/Debug/netcoreapp2.1/8-print_variables.csproj.AssemblyReference.cache
+/root/csharp/csharp-hello_world/8-print_variables/obj/Debug/netcoreapp2.1/8-print_variables.GeneratedMSBuildEditorConfig.editorconfig
+/root/csharp/csharp-hello_world/8-print_variables/obj/Debug/netcoreapp2.1/8-print_variables.AssemblyInfoInputs.cache
+/root/csharp/csharp-hello_world/8-print_variables/obj/Debug/netcoreapp2.1/8-print_variables.AssemblyInfo.cs
+/root/csharp/csharp-hello_world/8-print_variables/obj/Debug/netcoreapp2.1/8-print_variables.csproj.CoreCompileInputs.cache
+/root/csharp/csharp-hello_world/8-print_variables/obj/Debug/netcoreapp2.1/8-print_variables.dll
+/root/csharp/csharp-hello_world/8-print_variables/obj/Debug/netcoreapp2.1/8-print_variables.pdb
+/root/csharp/csharp-hello_world/8-print_variables/obj/Debug/netcoreapp2.1/8-print_variables.genruntimeconfig.cache
