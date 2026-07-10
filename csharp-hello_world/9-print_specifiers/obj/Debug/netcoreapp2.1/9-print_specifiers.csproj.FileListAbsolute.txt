@@ -1,0 +1,13 @@
+/root/csharp/csharp-hello_world/9-print_specifiers/bin/Debug/netcoreapp2.1/9-print_specifiers.deps.json
+/root/csharp/csharp-hello_world/9-print_specifiers/bin/Debug/netcoreapp2.1/9-print_specifiers.runtimeconfig.json
+/root/csharp/csharp-hello_world/9-print_specifiers/bin/Debug/netcoreapp2.1/9-print_specifiers.runtimeconfig.dev.json
+/root/csharp/csharp-hello_world/9-print_specifiers/bin/Debug/netcoreapp2.1/9-print_specifiers.dll
+/root/csharp/csharp-hello_world/9-print_specifiers/bin/Debug/netcoreapp2.1/9-print_specifiers.pdb
+/root/csharp/csharp-hello_world/9-print_specifiers/obj/Debug/netcoreapp2.1/9-print_specifiers.csproj.AssemblyReference.cache
+/root/csharp/csharp-hello_world/9-print_specifiers/obj/Debug/netcoreapp2.1/9-print_specifiers.GeneratedMSBuildEditorConfig.editorconfig
+/root/csharp/csharp-hello_world/9-print_specifiers/obj/Debug/netcoreapp2.1/9-print_specifiers.AssemblyInfoInputs.cache
+/root/csharp/csharp-hello_world/9-print_specifiers/obj/Debug/netcoreapp2.1/9-print_specifiers.AssemblyInfo.cs
+/root/csharp/csharp-hello_world/9-print_specifiers/obj/Debug/netcoreapp2.1/9-print_specifiers.csproj.CoreCompileInputs.cache
+/root/csharp/csharp-hello_world/9-print_specifiers/obj/Debug/netcoreapp2.1/9-print_specifiers.dll
+/root/csharp/csharp-hello_world/9-print_specifiers/obj/Debug/netcoreapp2.1/9-print_specifiers.pdb
+/root/csharp/csharp-hello_world/9-print_specifiers/obj/Debug/netcoreapp2.1/9-print_specifiers.genruntimeconfig.cache
