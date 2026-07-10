@@ -7,16 +7,17 @@ public class Line
         if (length <= 0)
         {
             Console.WriteLine();
-            return;
         }
-
-        for (int i = 0; i < length; i++)
+        else
         {
-            for (int j = 0; j < i; j++)
+            for (int i = 0; i < length; i++)
             {
-                Console.Write(" ");
+                for (int j = 0; j < i; j++)
+                {
+                    Console.Write(" ");
+                }
+                Console.WriteLine("\\");
             }
-            Console.WriteLine("\\");
         }
     }
 }
