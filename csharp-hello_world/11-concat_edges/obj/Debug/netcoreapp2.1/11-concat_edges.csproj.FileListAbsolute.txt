@@ -1,0 +1,13 @@
+/root/csharp/csharp-hello_world/11-concat_edges/bin/Debug/netcoreapp2.1/11-concat_edges.deps.json
+/root/csharp/csharp-hello_world/11-concat_edges/bin/Debug/netcoreapp2.1/11-concat_edges.runtimeconfig.json
+/root/csharp/csharp-hello_world/11-concat_edges/bin/Debug/netcoreapp2.1/11-concat_edges.runtimeconfig.dev.json
+/root/csharp/csharp-hello_world/11-concat_edges/bin/Debug/netcoreapp2.1/11-concat_edges.dll
+/root/csharp/csharp-hello_world/11-concat_edges/bin/Debug/netcoreapp2.1/11-concat_edges.pdb
+/root/csharp/csharp-hello_world/11-concat_edges/obj/Debug/netcoreapp2.1/11-concat_edges.csproj.AssemblyReference.cache
+/root/csharp/csharp-hello_world/11-concat_edges/obj/Debug/netcoreapp2.1/11-concat_edges.GeneratedMSBuildEditorConfig.editorconfig
+/root/csharp/csharp-hello_world/11-concat_edges/obj/Debug/netcoreapp2.1/11-concat_edges.AssemblyInfoInputs.cache
+/root/csharp/csharp-hello_world/11-concat_edges/obj/Debug/netcoreapp2.1/11-concat_edges.AssemblyInfo.cs
+/root/csharp/csharp-hello_world/11-concat_edges/obj/Debug/netcoreapp2.1/11-concat_edges.csproj.CoreCompileInputs.cache
+/root/csharp/csharp-hello_world/11-concat_edges/obj/Debug/netcoreapp2.1/11-concat_edges.dll
+/root/csharp/csharp-hello_world/11-concat_edges/obj/Debug/netcoreapp2.1/11-concat_edges.pdb
+/root/csharp/csharp-hello_world/11-concat_edges/obj/Debug/netcoreapp2.1/11-concat_edges.genruntimeconfig.cache
