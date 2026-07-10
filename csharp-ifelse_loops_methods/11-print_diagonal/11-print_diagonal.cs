@@ -4,20 +4,22 @@ public class Line
 {
     public static void PrintDiagonal(int length)
     {
-        for (int i = 0; i < length; i++)
+        if (length > 0)
         {
-            // Leerzeichen hinzufügen: für Zeile 0 -> 0 Leerzeichen, Zeile 1 -> 1 Leerzeichen...
-            for (int space = 0; space < i; space++)
+            for (int i = 0; i < length; i++)
             {
-                Console.Write(" ");
+                // Drucke i Leerzeichen
+                for (int j = 0; j < i; j++)
+                {
+                    Console.Write(" ");
+                }
+                // Drucke den Backslash
+                Console.WriteLine("\\");
             }
-            // Backslash drucken und Zeile beenden
-            Console.WriteLine("\\");
         }
-        
-        // Immer einen Zeilenumbruch am Ende, auch wenn length <= 0
-        if (length <= 0)
+        else
         {
+            // Bei length <= 0 nur eine leere Zeile
             Console.WriteLine();
         }
     }
