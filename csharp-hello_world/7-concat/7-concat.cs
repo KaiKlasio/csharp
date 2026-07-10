@@ -3,9 +3,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        string str1 = "Welcome";
-        string str2 = "Holberton School!";
-        string result = str1 + " to " + str2;
+        string str1 = "Holberton";
+        string str2 = "School";
+        string result = "Welcome to "+str1 + " " + str2;
         Console.WriteLine(result);
     }
 }
