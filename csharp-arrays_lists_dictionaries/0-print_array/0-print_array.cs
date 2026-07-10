@@ -17,20 +17,11 @@ public class Array
         }
 
         int[] myArray = new int[size];
-
         for (int i = 0; i < size; i++)
         {
             myArray[i] = i;
-            // Drucke die Zahl
-            Console.Write(i);
-            
-            // Drucke Leerzeichen NUR, wenn es NICHT das letzte Element ist
-            if (i < size - 1)
-            {
-                Console.Write(" ");
-            }
+            Console.Write(i + (i == size - 1 ? "" : " "));
         }
-        // Erst nach der Schleife kommt der Zeilenumbruch
         Console.WriteLine();
 
         return myArray;
